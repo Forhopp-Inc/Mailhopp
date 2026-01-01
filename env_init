@@ -1,6 +1,6 @@
 # Default Billion Mail Username password
-ADMIN_USERNAME=billion
-ADMIN_PASSWORD=billion
+ADMIN_USERNAME=admin
+ADMIN_PASSWORD=admin
 
 # Manage Safe entrance
 SafePath=login
