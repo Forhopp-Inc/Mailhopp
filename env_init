@@ -3,7 +3,7 @@ ADMIN_USERNAME=billion
 ADMIN_PASSWORD=billion
 
 # Manage Safe entrance
-SafePath=billion
+SafePath=login
 
 # BILLIONMAIL_HOSTNAME configuration, Postfix myhostname configuration
 BILLIONMAIL_HOSTNAME=mail.example.com
